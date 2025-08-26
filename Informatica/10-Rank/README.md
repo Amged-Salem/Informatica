@@ -1,4 +1,4 @@
-## Rank Transformation — Interview Cheat Sheet
+## Rank Transformation 
 
 ### Overview
 - **What it is**: Active transformation that selects top or bottom ranked data based on a ranking condition.
@@ -143,3 +143,4 @@ Result: Top 10% performers based on score
 
 #### Database Results
 ![Database Results](Results%20in%20Database.png)
+
